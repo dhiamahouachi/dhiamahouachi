@@ -10,10 +10,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C853&center=true&vCenter=true&width=600&lines=Why+did+the+pentester+cross+the+road%3F;To+check+for+vulnerabilities+on+the+other+side+😆;Hackers+don’t+use+maps...;They+prefer+to+find+routes+manually+🛠️;I+don’t+always+scan+ports...;But+when+I+do%2C+I+knock+politely+first+🚪😅" alt="Pentesting Jokes">
 </p>
 
-<!-- Moving Car Animation (GIF, works everywhere) -->
+<div align="center">
+
+<!-- Animated Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Hey+there!;Welcome+to+my+GitHub+Profile!" alt="Hey there">
+</h1>
+
+<!-- Pentesting Jokes -->
 <p>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Moving Car" width="400">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C853&center=true&vCenter=true&width=600&lines=Why+did+the+pentester+cross+the+road%3F;To+check+for+vulnerabilities+on+the+other+side+😆;Hackers+don’t+use+maps...;They+prefer+to+find+routes+manually+🛠️;I+don’t+always+scan+ports...;But+when+I+do%2C+I+knock+politely+first+🚪😅" alt="Pentesting Jokes">
 </p>
+
+<!-- Hacker Animation (GIF) -->
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Hacker" width="500">
+</p>
+
 
 ---
 
