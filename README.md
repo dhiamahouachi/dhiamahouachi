@@ -41,23 +41,32 @@
 
 
 
-<p align="center">
-  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-    <!-- Road -->
-    <rect y="70" width="600" height="10" fill="gray"/>
-    <line x1="0" y1="75" x2="600" y2="75" stroke="white" stroke-dasharray="20 10" stroke-width="2"/>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" viewBox="0 0 800 120" preserveAspectRatio="xMidYMid meet">
+  <!-- Road -->
+  <rect y="88" width="800" height="8" fill="#333"/>
+  <line x1="0" y1="92" x2="800" y2="92" stroke="#fff" stroke-width="3" stroke-dasharray="20,15"/>
 
-    <!-- Car group -->
-    <g>
-      <rect x="0" y="40" width="60" height="30" rx="5" ry="5" fill="#36BCF7"/>
-      <circle cx="15" cy="75" r="7" fill="black"/>
-      <circle cx="45" cy="75" r="7" fill="black"/>
-      <text x="30" y="60" font-size="10" text-anchor="middle" fill="white">Pentest</text>
-      
-      <!-- Animation -->
-      <animateTransform attributeName="transform" type="translate" from="-100 0" to="650 0" dur="6s" repeatCount="indefinite"/>
-    </g>
-  </svg>
+  <!-- Car group: starts off-left and moves to the right -->
+  <g id="car" transform="translate(-160,0)">
+    <rect x="0" y="52" width="120" height="40" rx="10" fill="#36BCF7"/>
+    <circle cx="25" cy="99" r="10" fill="#111"/>
+    <circle cx="95" cy="99" r="10" fill="#111"/>
+    <text x="60" y="78" font-size="14" text-anchor="middle" fill="#fff" font-family="Arial">Pentest</text>
+
+    <!-- SMIL animation (translate) -->
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="-160 0"
+      to="960 0"
+      begin="0s"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </g>
+</svg>
+<p align="center">
+  <img alt="car animation" src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/car.svg" />
 </p>
 
 
