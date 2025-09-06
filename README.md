@@ -12,10 +12,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C853&center=true&vCenter=true&width=600&lines=Why+did+the+pentester+cross+the+road%3F;To+check+for+vulnerabilities+on+the+other+side+😆;Hackers+don’t+use+maps...;They+prefer+to+find+routes+manually+🛠️;I+don’t+always+scan+ports...;But+when+I+do%2C+I+knock+politely+first+🚪😅" alt="Pentesting Jokes">
 </p>
 
-<!-- Hacker Animation (GIF) -->
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Hacker" width="500">
-</p>
+<div align="center">
+
+<!-- Huge Hacker Title -->
+<img src="https://media.giphy.com/media/26gslU06cxcv8w7O0/giphy.gif" alt="Hacker Skull" width="800"/>
+
+<h1>💀 Penetration Testing in Progress... 💀</h1>
+
+<!-- Hacker Matrix Animation -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Hack" width="800"/>
+
+</div>
 
 
 ---
