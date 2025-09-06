@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔒 Cybersecurity enthusiast & penetration tester  <br>🐧 Kali Linux is my daily driver  <br>🐍 Crafting tools and exploits with Python  <br>🌐 Breaking web apps (ethically, of course)  <br>📊 Analyzing packets with Wireshark for fun  <br>🛡️ Passionate about the OWASP Top 10  <br>📚 Constant learner, currently diving deeper into threat intelligence  <br>☕ Powered by coffee and a curiosity for how systems break
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Hey+there!" alt="Hey there">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F75C7E&center=true&vCenter=true&width=600&lines=Pentester+walks+into+a+bar...;Finds+it+wide+open+🍺+😅" alt="Pentesting Joke">
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhia-mahouachi) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhiamahouachi2025@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourhandle) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/yourprofile)
