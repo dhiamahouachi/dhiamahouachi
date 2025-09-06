@@ -39,8 +39,23 @@
 <!-- Activity Graph -->
 [![Dhia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiamahouachi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/dhiamahouachi/dhiamahouachi/blob/output/github-contribution-grid-snake.svg)
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 <!-- Random Joke -->
 <p align="center">
@@ -63,8 +78,8 @@
 - 🌱 I'm learning **advanced threat intelligence techniques**
 - 👯 I'm looking to collaborate on **open-source security tools**
 - 🤔 I'm looking for help with **binary exploitation**
-- 💬 Ask me about **ethical hacking, CTFs, or Linux**
-- ⚡ Fun fact: **I can probably find vulnerabilities faster than you can brew coffee!**
+- 💬 Ask me about **ethical hacking**
+
 
 ---
 
