@@ -39,23 +39,26 @@
 <!-- Activity Graph -->
 [![Dhia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiamahouachi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-name: Generate Snake Animation
+<h1 align="center">👋 Hey there!</h1>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<p align="center">
+  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Road -->
+    <rect y="70" width="600" height="10" fill="gray"/>
+    <rect y="74" width="600" height="2" fill="white" stroke-dasharray="20 10"/>
+    
+    <!-- Car -->
+    <g>
+      <rect x="0" y="40" width="60" height="30" rx="5" ry="5" fill="#36BCF7"/>
+      <circle cx="15" cy="75" r="7" fill="black"/>
+      <circle cx="45" cy="75" r="7" fill="black"/>
+    </g>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    <!-- Animation -->
+    <animateTransform attributeName="transform" type="translate" from="-80 0" to="600 0" dur="5s" repeatCount="indefinite"/>
+  </svg>
+</p>
+
 
 <!-- Random Joke -->
 <p align="center">
