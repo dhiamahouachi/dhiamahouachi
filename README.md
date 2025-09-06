@@ -47,27 +47,12 @@
   <rect y="88" width="800" height="8" fill="#333"/>
   <line x1="0" y1="92" x2="800" y2="92" stroke="#fff" stroke-width="3" stroke-dasharray="20,15"/>
 
-  <!-- Car group: starts off-left and moves to the right -->
-  <g id="car" transform="translate(-160,0)">
-    <rect x="0" y="52" width="120" height="40" rx="10" fill="#36BCF7"/>
-    <circle cx="25" cy="99" r="10" fill="#111"/>
-    <circle cx="95" cy="99" r="10" fill="#111"/>
-    <text x="60" y="78" font-size="14" text-anchor="middle" fill="#fff" font-family="Arial">Pentest</text>
+<h1 align="center">👋 Hey there!</h1>
 
-    <!-- SMIL animation (translate) -->
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="-160 0"
-      to="960 0"
-      begin="0s"
-      dur="6s"
-      repeatCount="indefinite"/>
-  </g>
-</svg>
 <p align="center">
-  <img alt="car animation" src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/car.svg" />
+  <img src="./car.gif" alt="Car animation" width="600"/>
 </p>
+
 
 
 
