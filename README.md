@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C853&center=true&vCenter=true&width=600&lines=Why+did+the+pentester+cross+the+road%3F;To+check+for+vulnerabilities+on+the+other+side+😆;Hackers+don’t+use+maps...;They+prefer+to+find+th
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C853&center=true&vCenter=true&width=600&lines=Why+did+the+pentester+cross+the+road%3F;To+check+for+vulnerabilities+on+the+other+side+😆;Hackers+don’t+use+maps...;They+prefer+to+find+the+routes+manually+🛠️;I+don’t+always+scan+ports...;But+when+I+do%2C+I+knock+politely+first+🚪😅" alt="Pentesting Jokes">
+</p>
 
 
 ## 🌐 Socials:
