@@ -47,7 +47,7 @@
   <rect y="88" width="800" height="8" fill="#333"/>
   <line x1="0" y1="92" x2="800" y2="92" stroke="#fff" stroke-width="3" stroke-dasharray="20,15"/>
 
-<h1 align="center">👋 Hey there!</h1>
+
 
 <p align="center">
   <img src="./car.gif" alt="Car animation" width="600"/>
