@@ -1,9 +1,4 @@
-<div align="center">
 
-<!-- Animated Title -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Hey+there!;Welcome+to+my+GitHub+Profile!" alt="Hey there">
-</h1>
 
 <!-- Pentesting Jokes -->
 <p>
