@@ -49,38 +49,6 @@
 
 
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate GitHub Contribution Grid
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          publish_branch: output
-          force_orphan: true
 
 
 
@@ -117,6 +85,7 @@ jobs:
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-100%25%20Complete-brightgreen?style=for-the-badge)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-15%20Machines%20Pwned-orange?style=for-the-badge)
 
+<p align="center">
 ### 📜 My Hacking Principles
 ```python
 while True:
@@ -125,6 +94,7 @@ while True:
     share_knowledge()
     drink_coffee()
 ```
+</p>
 
 </div>
 
