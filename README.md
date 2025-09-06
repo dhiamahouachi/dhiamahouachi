@@ -39,25 +39,27 @@
 <!-- Activity Graph -->
 [![Dhia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiamahouachi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1 align="center">👋 Hey there!</h1>
+
 
 <p align="center">
   <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
     <!-- Road -->
     <rect y="70" width="600" height="10" fill="gray"/>
-    <rect y="74" width="600" height="2" fill="white" stroke-dasharray="20 10"/>
-    
-    <!-- Car -->
+    <line x1="0" y1="75" x2="600" y2="75" stroke="white" stroke-dasharray="20 10" stroke-width="2"/>
+
+    <!-- Car group -->
     <g>
       <rect x="0" y="40" width="60" height="30" rx="5" ry="5" fill="#36BCF7"/>
       <circle cx="15" cy="75" r="7" fill="black"/>
       <circle cx="45" cy="75" r="7" fill="black"/>
+      <text x="30" y="60" font-size="10" text-anchor="middle" fill="white">Pentest</text>
+      
+      <!-- Animation -->
+      <animateTransform attributeName="transform" type="translate" from="-100 0" to="650 0" dur="6s" repeatCount="indefinite"/>
     </g>
-
-    <!-- Animation -->
-    <animateTransform attributeName="transform" type="translate" from="-80 0" to="600 0" dur="5s" repeatCount="indefinite"/>
   </svg>
 </p>
+
 
 
 <!-- Random Joke -->
