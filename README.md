@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- Huge Hacker Title -->
-<img src="https://media.giphy.com/media/26gslU06cxcv8w7O0/giphy.gif" alt="Hacker Skull" width="800"/>
+
 
 <h1>💀 Penetration Testing in Progress... 💀</h1>
 
