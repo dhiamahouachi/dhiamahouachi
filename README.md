@@ -76,7 +76,9 @@
 ## 💰 Support Me
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕️%20Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dhiamahouachi)
+<a href="https://buymeacoffee.com/dhiamahouachi" target="_blank">
+  <img src="https://img.shields.io/badge/☕️%20Buy%20Me%20a%20Coffee-ffdd00?style=social&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" width="200"/>
+</a>
 
 </div>
 
