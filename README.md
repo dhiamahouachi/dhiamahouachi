@@ -61,10 +61,7 @@
 ---
 
 
-<!-- Random Joke Card -->
-<p>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</p>
+
 
 <!-- Profile Views -->
 <p> 
@@ -82,20 +79,10 @@
 </div>
 
 
----
-
-## 🎯 Currently Working On
-- 🔭 Developing **automated penetration testing scripts**
-- 🌱 Learning **advanced threat intelligence techniques**
-- 👯 Collaborating on **open-source security tools**
-- 🤔 Exploring **binary exploitation**
-- 💬 Ask me about **ethical hacking**
-
----
 
 ### 🔥 My CTF Progress
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-100%25%20Complete-brightgreen?style=for-the-badge)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-15%20Machines%20Pwned-orange?style=for-the-badge)
+
 
 ---
 
